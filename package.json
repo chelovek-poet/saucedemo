@@ -1,0 +1,27 @@
+{
+  "name": "saucedemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "playwright": "^1.21.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.21.1"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chelovek-poet/saucedemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chelovek-poet/saucedemo/issues"
+  },
+  "homepage": "https://github.com/chelovek-poet/saucedemo#readme"
+}
